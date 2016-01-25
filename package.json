@@ -1,0 +1,24 @@
+{
+  "name": "pipe-json",
+  "version": "0.0.1",
+  "description": "a tool to pipe output to json-pretty",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosforfun/pipe-json.git"
+  },
+  "keywords": [
+    "cmd-tool",
+    "json",
+    "pretty"
+  ],
+  "author": "chaos <chaosforfun@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaosforfun/pipe-json/issues"
+  },
+  "homepage": "https://github.com/chaosforfun/pipe-json#readme"
+}
